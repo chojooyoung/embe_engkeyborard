@@ -13,7 +13,7 @@ d. del 커서가 위치한 글자를 삭제
 
 ### 조건:
 1. WiringPi의 lcd library를 사용하지 말 것.
-2. gpio spi 기법사용
+2. gpio spi 기법을 사용할 것 
 
 
 
